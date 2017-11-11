@@ -1,0 +1,26 @@
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe.config
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\bin\Debug\Screen Capture.exe
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\bin\Debug\Screen Capture.pdb
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\bin\Debug\Screen Capture.xml
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.Form1.resources
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.Form2.resources
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.Resources.resources
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\obj\Debug\Screen Capture.vbproj.GenerateResource.Cache
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\obj\Debug\Screen Capture.exe
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\obj\Debug\Screen Capture.xml
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\obj\Debug\Screen Capture.pdb
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.Start.resources
+E:\OS\VB.NET Codes OS\Screen Capture\Screen Capture\obj\Debug\Screen_Capture.Form3.resources
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\bin\Debug\Screen Capture.exe.config
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\obj\Debug\Screen Capture.exe
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\obj\Debug\Screen Capture.xml
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\obj\Debug\Screen Capture.pdb
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\bin\Debug\Screen Capture.exe
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\bin\Debug\Screen Capture.pdb
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\bin\Debug\Screen Capture.xml
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\obj\Debug\Screen_Capture.Form1.resources
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\obj\Debug\Screen_Capture.Form2.resources
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\obj\Debug\Screen_Capture.Form3.resources
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\obj\Debug\Screen_Capture.Resources.resources
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\obj\Debug\Screen_Capture.Start.resources
+E:\OS\VB.NET Codes OS\Screen Capture_Show\Screen Capture\obj\Debug\Screen Capture.vbproj.GenerateResource.Cache
